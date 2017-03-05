@@ -51,7 +51,7 @@ enum Operator : String {
         case 6: return .Multiply
         case 7: return .Divide
        
-        // Exam: Conver an Int back to Factorial
+        // Exam: Convert an Int back to Factorial
         case 8: return .Factorial
         case 9: return .Equals
         default: return .PI
